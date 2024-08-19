@@ -1,6 +1,6 @@
 # WorldGDP-ETL
 
-Extract, Transform, and Load global GDP data from the IMF into JSON and SQLite formats, including execution logging
+Extract, Transform, and Load global GDP data from the IMF into CSV and SQL formats, including execution logging
 
 ## Features
 
@@ -14,7 +14,7 @@ Extract, Transform, and Load global GDP data from the IMF into JSON and SQLite f
 ```
 WorldGDP-ETL/
 ├── etl_gdp.py            # Main ETL script
-├── Countries_by_GDP.json # Output JSON file
+├── Countries_by_GDP.csv # Output CSV file
 ├── World_Economies.db    # SQLite database
 ├── etl_log.txt           # Execution log
 └── README.md             # Documentation
