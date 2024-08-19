@@ -27,11 +27,13 @@ Clone the repository:
 ````bash
 git clone https://github.com/Oelazab/WorldGDP-ETL.git
 cd WorldGDP-ETL
+```
 
 Run the ETL script:
 
 ```bash
 python etl_gdp.py
+```
 
 Outputs:
 
