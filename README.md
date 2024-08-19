@@ -24,7 +24,7 @@ WorldGDP-ETL/
 
 Clone the repository:
 
-````bash
+```bash
 git clone https://github.com/Oelazab/WorldGDP-ETL.git
 cd WorldGDP-ETL
 ```
@@ -39,8 +39,4 @@ Outputs:
 
 - View Countries_by_GDP.json.
 - Check the World_Economies.db database.
-- Review the etl_project_log.txt file.
-
-
-
-````
+- Review the etl_log.txt file.
